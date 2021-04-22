@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Veer Singh, and I'm a Senior Transmission Operator in the Marine Corps and a Software Engineer.
+My name is Veer Singh, and I'm a Software Engineer and a Senior Transmission Operator in the Marine Corps.
 
 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/veerkaran-singh-45b4a9190/)
