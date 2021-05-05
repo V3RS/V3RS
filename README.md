@@ -6,6 +6,11 @@ My name is Veer Singh, and I'm a Software Engineer and a Senior Transmission Ope
 [![Gmail Badge](https://img.shields.io/badge/-vsdev97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:husseingeid@gmail.com)](mailto:vsdev97@gmail.com)
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](http://vsingh.dev)
 
+- 🔭 I’m currently working on an Amazon Mobile Clone 
+- 🌱 I’m currently learning React Native and TypeScript
+- 👯 I’m looking to collaborate on all projects. Please reach out if you would like to collaborate
+- 💬 Ask me about my military career, projects, computer science fundamentals, snowbaording, almost anything I love to talk :D.
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
