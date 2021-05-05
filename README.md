@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Veer Singh, and I'm a Software Engineer and a Senior Transmission Operator in the Marine Corps. Outside of coding, I enjoy snowboarding, golfing, video games, and weight training.
+My name is Veer Singh. I'm a Software Engineer and a Senior Transmission Operator in the Marine Corps. Outside of coding, I enjoy snowboarding, golfing, video games, and weight training.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerkaran-singh-45b4a9190/)
 [![Gmail Badge](https://img.shields.io/badge/-vsdev97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:husseingeid@gmail.com)](mailto:vsdev97@gmail.com)
