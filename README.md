@@ -7,7 +7,7 @@ My name is Veer Singh, and I'm a Software Engineer and a Senior Transmission Ope
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](http://vsingh.dev)
 
 - 🔭 I’m currently working on an Amazon Mobile Clone 
-- 🌱 I’m currently learning React Native, TypeScript, and polishing up DS&A
+- 🌱 I’m currently learning React Native, TypeScript, and polishing up my DS&A skills
 - 👯 I’m looking to collaborate on all projects, please reach out if you would like to collaborate
 - 💬 Ask me about my military career, projects, computer science fundamentals, snowbaording, almost anything I love to talk :D
 
