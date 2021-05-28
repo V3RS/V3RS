@@ -9,7 +9,7 @@ My name is Veer Singh. I'm a Software Engineer and a Senior Transmission Operato
 - 🔭 I’m currently working on an Amazon Mobile Clone 
 - 🌱 I’m currently learning React Native, TypeScript, and polishing up my DS&A skills
 - 👯 I’m looking to collaborate on all projects, please reach out if you would like to collaborate
-- 💬 Ask me about my military career, projects, computer science fundamentals, golfing, snowbaording, almost anything. I'd love to chat :D
+- 💬 Ask me about my military career, projects, computer science fundamentals, snowbaording, almost anything. I'd love to chat :D
 
 ## ⚡ Technologies
 
